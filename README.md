@@ -21,15 +21,5 @@ docs/          Entity → table mapping reference
 README.md      this file
 ```
 
-## Database
-
-Seven tables: `organization`, `child`, `preferences`, `activity`, `life_style`, `engagement`, `child_preference`.
-See `docs/mapping.md` for the full column-by-column mapping and `sql/schema.sql` to build the database.
-
-To build it:
-
-```sql
-SOURCE sql/schema.sql;
-```
 
 or run the file directly in MySQL Workbench.
