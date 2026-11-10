@@ -12,14 +12,3 @@ Data analytics training project (NTI summer training). A proposed consulting sce
 6. **Data Visualization** — summarize insights with Python, simple Power BI dashboard
 7. **Final Documentation** — every step documented
 
-## Repo structure
-
-```
-erd/           ERD diagrams (PNG + editable SVG)
-sql/           MySQL schema script (CREATE DATABASE + tables)
-docs/          Entity → table mapping reference
-README.md      this file
-```
-
-
-or run the file directly in MySQL Workbench.
